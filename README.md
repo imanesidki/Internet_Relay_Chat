@@ -67,4 +67,3 @@ The server uses the poll system call to wait for incoming connections or data on
 The server distinguishes between server and client connections and handles them accordingly.
 For a new connections, the is_server_connection function is called.
 For client already connexted, the is_client_connection function is called.
-
