@@ -1,3 +1,5 @@
+## Internet Relay Chat
+IRC is a network of Internet servers that use a specific protocol through which individuals can hold real-time online conversations via PCs and other devices.
 
 ## IRC_SERVER
 This project is intended for a deeper study of the operation of sockets and their interactions on the example of an IRC chat/server.
